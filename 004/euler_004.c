@@ -5,6 +5,7 @@ int largestPalindrome();
 
 int main() {
 	printf("The largest palindromic number made from the product of two 3-digit numbers is %d\n", largestPalindrome());
+	return 0;
 }
 
 int largestPalindrome() {
